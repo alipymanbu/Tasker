@@ -1,71 +1,29 @@
-<p align="center">
-  <h1 align="center">Tasker: To-Do List & Planner</h1>
+# tasker
 
-  <p align="left">
-    Tasker is an open source task manager (todo list) app, developed using Dart language and Flutter framework.
-  </p>
-  <p align="left">  
-</p>
+本仓库是「tasker」的安卓版本获取入口，附使用资料索引。
 
-[![GitHub release (latest)](https://img.shields.io/github/v/release/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/releases)
-![GitHub repo size](https://img.shields.io/github/repo-size/ErfanRht/Tasker)
-[![GitHub stars](https://img.shields.io/github/stars/ErfanRht/Tasker?style=social)](https://github.com/ErfanRht/Tasker/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/ErfanRht/Tasker?style=social)](https://github.com/ErfanRht/Tasker/network/members) 
-[![GitHub issues](https://img.shields.io/github/issues/ErfanRht/Tasker?style=social)](https://github.com/ErfanRht/Tasker/issues) 
-[![GitHub license](https://img.shields.io/github/license/ErfanRht/Tasker?style=social)](https://github.com/ErfanRht/Tasker/blob/master/LICENSE) 
+## 安装文件资源（夸克网盘）
 
-<p align="center">
-    <img src="./screenshots/mockups/Tasker_Light.jpg" width="48%" />
-  &ensp;
-    <img src="./screenshots/mockups/Tasker_Dark.jpg" width="48%" />
-  &ensp;
-</p>
+> **tasker 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/68cc03b45038](https://pan.quark.cn/s/68cc03b45038)
 
-## Screenrecords
+## 官方项目
 
-<p float="center">
-  <img src="https://github.com/ErfanRht/Tasker/blob/master/screenshots/videos/Screenrecord-dark.gif?raw=true" width="25%" />
-  &ensp;
-  <img src="https://github.com/ErfanRht/Tasker/blob/master/screenshots/videos/Screenrecord-light.gif?raw=true" width="25%" />
-  &ensp;
-</p>
+- 上游项目：[ErfanRht/Tasker](https://github.com/ErfanRht/Tasker)
 
-## Download
-  You can simply download it for Android from [Here](https://github.com/ErfanRht/Tasker/releases/tag/1.0.1).
+## 更多资料
 
-## Contribute
-
-I welcome contributions from the community! If you have an idea for an enhancement or have found a bug, you can raise a GitHub issue [here](https://github.com/ErfanRht/Tasker/issues) or you can follow these steps to contribute:
-
-1. **Fork the repository**
-2. **Create a new branch**
-    ```sh
-    git checkout -b feature/my-new-feature
-    ```
-3. **Commit your changes**
-    ```sh
-    git commit -am 'Add some feature'
-    ```
-4. **Push to the branch**
-    ```sh
-    git push origin feature/my-new-feature
-    ```
-5. **Create a new Pull Request**
-   
-## License
-This project is licensed under the [Apache-2.0 License](https://github.com/ErfanRht/Tasker/blob/master/LICENSE).
-
-## Author
-This Flutter project is developed by [Erfan Rahmati](https://github.com/ErfanRht).
-
-## Supporters
-[![Stargazers repo roster for @ErfanRht/Tasker](https://reporoster.com/stars/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/stargazers)
-[![Forkers repo roster for @ErfanRht/Tasker](https://reporoster.com/forks/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/network/members)
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [不生效与定时不准怎么排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E4%B8%8D%E7%94%9F%E6%95%88%E4%B8%8E%E5%AE%9A%E6%97%B6%E4%B8%8D%E5%87%86%E6%80%8E%E4%B9%88%E6%8E%92%E6%9F%A5.md)
+- [变量与条件怎么用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%8F%98%E9%87%8F%E4%B8%8E%E6%9D%A1%E4%BB%B6%E6%80%8E%E4%B9%88%E7%94%A8.md)
+- [场景怎么做自定义弹窗与面板](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%9C%BA%E6%99%AF%E6%80%8E%E4%B9%88%E5%81%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BC%B9%E7%AA%97%E4%B8%8E%E9%9D%A2%E6%9D%BF.md)
+- [导入现成项目与备份恢复](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%AF%BC%E5%85%A5%E7%8E%B0%E6%88%90%E9%A1%B9%E7%9B%AE%E4%B8%8E%E5%A4%87%E4%BB%BD%E6%81%A2%E5%A4%8D.md)
+- [怎么控制耗电与后台占用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%80%8E%E4%B9%88%E6%8E%A7%E5%88%B6%E8%80%97%E7%94%B5%E4%B8%8E%E5%90%8E%E5%8F%B0%E5%8D%A0%E7%94%A8.md)
+- [怎么让它自动点击其他应用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%80%8E%E4%B9%88%E8%AE%A9%E5%AE%83%E8%87%AA%E5%8A%A8%E7%82%B9%E5%87%BB%E5%85%B6%E4%BB%96%E5%BA%94%E7%94%A8.md)
+- [新手怎么建第一个自动化](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%96%B0%E6%89%8B%E6%80%8E%E4%B9%88%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%87%AA%E5%8A%A8%E5%8C%96.md)
+- [权限与后台省电怎么设置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%9D%83%E9%99%90%E4%B8%8E%E5%90%8E%E5%8F%B0%E7%9C%81%E7%94%B5%E6%80%8E%E4%B9%88%E8%AE%BE%E7%BD%AE.md)
+- [触发条件有哪几类怎么选](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Tasker%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E8%A7%A6%E5%8F%91%E6%9D%A1%E4%BB%B6%E6%9C%89%E5%93%AA%E5%87%A0%E7%B1%BB%E6%80%8E%E4%B9%88%E9%80%89.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
 ---
 
-<div align="center">
-
-### Show some ❤️ by starring 🌟 the repository!
-
-</div>
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/ErfanRht/Tasker)。
